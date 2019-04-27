@@ -1,0 +1,11 @@
+<?xml version='1.0' ?>
+<LevelConfig>
+    <Level01>
+        <TargetMoney >8</TargetMoney>
+        <Blood >20</Blood>
+    </Level01>
+    <Level02>
+        <TargetMoney >8</TargetMoney>
+        <Blood >30</Blood>
+    </Level02>
+</LevelConfig>
