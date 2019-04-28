@@ -1,5 +1,4 @@
 ## LD44 Selling Blood Story
-[Twitter](https://twitter.com/zengsadi223)
 
 ### About This game
 the theme is Your life is currency.
@@ -17,3 +16,5 @@ Hope anyone would like it.
 ### Tools I use
 This time I try to use Construct2 Game Engine. For the art I use Aseprite. And Sound use BFXR.
 
+### Contact me
+[Twitter](https://twitter.com/zengsadi223)
